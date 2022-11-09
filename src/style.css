@@ -1,0 +1,24 @@
+body {
+    background: #f0f2f5;
+}
+
+.header {
+    background: #fff;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.content {
+    overflow-y: auto;
+    min-height: 600px;
+    margin: 10px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    line-height: 30px;
+    text-align: center;
+    border-top: 1px solid #999;
+}

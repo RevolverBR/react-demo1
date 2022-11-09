@@ -1,0 +1,14 @@
+.header__logo {
+    float: left;
+    height: 45px;
+    margin-top: 10px;
+}
+
+.header-menus {
+    position: relative;
+    bottom: 4px;
+    float: left;
+    margin-left: 10px;
+    /* border-bottom: none !important; */
+    background: none;
+}
